@@ -1,5 +1,23 @@
 # Retail Sales Analysis Using Python
 
+## Table of Contents
+
+1. [Project Overview](#project-overview)
+2. [Business Problem](#business-problem)
+3. [Project Objectives](#project-objectives)
+4. [Dataset Overview](#dataset-overview)
+5. [Tools and Technologies](#tools-and-technologies)
+6. [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+7. [Exploratory Data Analysis](#exploratory-data-analysis)
+   - [Univariate Analysis](#1-univariate-analysis)
+   - [Bivariate Analysis](#2-bivariate-analysis)
+   - [Outlier Analysis](#3-outlier-analysis)
+   - [Business Analysis](#4-business-analysis)
+8. [Key Findings](#key-findings)
+9. [Business Insights and Recommendations](#business-insights-and-recommendations)
+10. [Limitations](#limitations)
+11. [Conclusion](#conclusion)
+12. [Skills Demonstrated](#skills-demonstrated)
 ## Project Overview
 
 This project analyzes retail shopping transaction data to understand sales performance across product categories, shopping malls, customer demographics, payment methods, and time periods.
