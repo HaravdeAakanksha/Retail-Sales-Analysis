@@ -107,19 +107,19 @@ Bivariate analysis was used to explore relationships between two variables.
 
 Compared average transaction prices across gender groups.
 
-![Average Price by Gender](images/average_price_by_gender.png)
+![Average Price by Gender](images/avg_price_by_gender.png)
 
 #### Average Price by Product Category
 
 Compared average transaction prices across product categories.
 
-![Average Price by Category](images/average_price_by_category.png)
+![Average Price by Category](images/avg_price_by_category.png)
 
 #### Average Price by Payment Method
 
 Examined how average transaction prices differed across payment methods.
 
-![Average Price by Payment Method](images/average_price_by_payment_method.png)
+![Average Price by Payment Method](images/avg_price_by_payment_method.png)
 
 #### Relationship Between Quantity and Price
 
@@ -135,19 +135,19 @@ The IQR method was used to flag potential outliers. Outliers were investigated r
 
 The analysis identified **5,024 potential price outliers**, representing approximately **5.05% of the transaction records**. These were concentrated in the Shoes and Technology categories.
 
-![Price Outlier Analysis](images/price_outlier_analysis.png)
+![Price Outlier Analysis](images/price_outlier.png)
 
 #### Age Outlier Analysis
 
 Examined the age variable using a box plot to identify values outside the IQR-based range.
 
-![Age Outlier Analysis](images/age_outlier_analysis.png)
+![Age Outlier Analysis](images/age_outlier.png)
 
 #### Quantity Outlier Analysis
 
 Examined unusually low or high quantities using a box plot.
 
-![Quantity Outlier Analysis](images/quantity_outlier_analysis.png)
+![Quantity Outlier Analysis](images/quantity_outlier.png)
 
 ### 4. Business Analysis
 
@@ -155,7 +155,7 @@ Examined unusually low or high quantities using a box plot.
 
 Clothing contributed approximately **45.33%** of total sales, followed by Shoes at **26.46%** and Technology at **23.01%**.
 
-![Total Sales by Category](images/total_sales_by_category.png)
+![Total Sales by Category](images/sales_by_category.png)
 
 #### Monthly Sales Trend
 
