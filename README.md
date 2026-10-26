@@ -113,13 +113,13 @@ Compared average transaction prices across gender groups.
 
 Compared average transaction prices across product categories.
 
-![Average Price by Category](images/avg_price_by_category.png)
+![Average Price by Category](images/avg_price_by_categories.png)
 
 #### Average Price by Payment Method
 
 Examined how average transaction prices differed across payment methods.
 
-![Average Price by Payment Method](images/avg_price_by_payment_method.png)
+![Average Price by Payment Method](images/avg_price_by_payment_methods.png)
 
 #### Relationship Between Quantity and Price
 
